@@ -28,3 +28,6 @@ Authors
 ---------------
 Lukasz Kozlowski  
 Ariel Erijman (I would be more than glad to contribute to your codes if you agree with that !!!)
+Linda Warfield
+Johannes Soding
+Steve Hahn
