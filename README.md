@@ -13,12 +13,6 @@ The [sequences](https://github.com/aerijman/Transcriptional-Activation-Domains) 
 ----
 Codes/Scripts
 --------------------
-1. Lukasz will explain this in detail! :+1:
-2. For now I added the MIT lisence, though you should decide which licence to use.
-
-```
-If you include some codes here I could collaborate and raise comments and suggestions?
-```
 LICENSE
 -------------
 Licensed by [MIT](https://opensource.org/licenses/MIT).
@@ -26,8 +20,3 @@ Licensed by [MIT](https://opensource.org/licenses/MIT).
 
 Authors
 ---------------
-Lukasz Kozlowski  
-Ariel Erijman (I would be more than glad to contribute to your codes if you agree with that !!!)
-Linda Warfield
-Johannes Soding
-Steve Hahn
