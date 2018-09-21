@@ -5,4 +5,5 @@
 * Methods to interpret the models, [1](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) and [2](https://arxiv.org/pdf/1703.01365.pdf)
 
 * [Johannes method](https://uniclust.mmseqs.com) to cluster UniProt towards faster blast (used in ss prediction)
+* [spectrum kernel](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf) technique
 
