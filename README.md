@@ -8,3 +8,5 @@
 * [Spectrum kernel](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf) technique. To mke it work with our high dimentionality, [THIS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.9009&rep=rep1&type=pdf) might be a solution (found it at [stack exchange](https://datascience.stackexchange.com/questions/989/svm-using-scikit-learn-runs-endlessly-and-never-completes-execution)).  
 
 * [second notebook](http://htmlpreview.github.io/?https://github.com/aerijman/TADs-analysis/blob/master/TAD_second_clean.html)
+
+* [Steve's notes](./10_2_2028_talk_with_Johannes.pdf) from meeting with Johannes on 2/10/2018 
