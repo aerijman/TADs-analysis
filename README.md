@@ -10,6 +10,10 @@
 
 * [Steve's notes](./10_2_2028_talk_with_Johannes.pdf) from meeting with Johannes on 2/10/2018 
 
+* A [wrap-up](./UtahConference.htm) including figures presented at the asbmb meeting in Utah, 2018
+
+* Our [predictions](./predict_sequences.html) look good on a very small set of known activators from yeast and one from drosophyla. We have to test the model in a bigger validation set before publication.
+
 * Interestingly, in [Stark publication](http://emboj.embopress.org/content/37/16/e98896) a region at about positions 250 was found to be tAD in Drosophila. The reported gene used for their findings is developmental core promoter, which is inducible (same as the one we are using in our experiments with ARG3!!).[<sup>1</sup>](#1)
 We found the same using our predictor!!
 
