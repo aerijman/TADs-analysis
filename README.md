@@ -15,7 +15,7 @@
 * Our [predictions](./predict_sequences.html) look good on a very small set of known activators from yeast and one from drosophyla. We have to test the model in a bigger validation set before publication.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/7gUZ2tquVYg)
+[![performance_2mers](./heatmap_1.jpg](https://youtu.be/7gUZ2tquVYg)
 
 
 
