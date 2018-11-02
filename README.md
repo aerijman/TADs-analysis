@@ -10,9 +10,9 @@
 
 * [Steve's notes](./10_2_2028_talk_with_Johannes.pdf) from meeting with Johannes on 2/10/2018 
 
-* A [wrap-up](./UtahConference.htm) including figures presented at the asbmb meeting in Utah, 2018
+* A [wrap-up](https://htmlpreview.github.io/?https://github.com/aerijman/Transcriptional-Activation-Domains/blob/gh-pages/UtahConference.html) including figures presented at the asbmb meeting in Utah, 2018
 
-* Our [predictions](./predict_sequences.html) look good on a very small set of known activators from yeast and one from drosophyla. We have to test the model in a bigger validation set before publication.
+* Our [predictions](https://htmlpreview.github.io/?https://github.com/aerijman/Transcriptional-Activation-Domains/blob/gh-pages/predict_sequences.html) look good on a very small set of known activators from yeast and one from drosophyla. We have to test the model in a bigger validation set before publication.
 
 
 [<img src="./figures/heatmap_1.jpg" width="100">](https://youtu.be/7gUZ2tquVYg)
