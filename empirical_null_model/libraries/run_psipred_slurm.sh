@@ -71,5 +71,7 @@ do
 		# rm all side files (from psipred-blast)
 		rm ${prefix:0:-5}*
 	done
+	
+	# remove junk files
 	rm *blast *out *pn *mn *chk *aux *fasta *horiz
 done
