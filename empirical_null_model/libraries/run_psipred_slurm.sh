@@ -1,5 +1,11 @@
 #!/bin/bash
 
+################################################################################################################
+# can run this script with bash script.sh& or tmux or nohup and then run
+# while sleep 4; do clear; queue=$(squeue -u aerijman | wc -l); results=($(wc -l horiz.results)); printf "queued= $queue\ndone= ${results[0]}\n"; done
+# to track the process
+################################################################################################################
+
 # load psipred module
 ml psipred/4.01-foss-2016b
 
