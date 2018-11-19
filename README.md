@@ -26,8 +26,8 @@ We found the same using our predictor!!
 * Stark data was used to build a [null hypothesis distribution](./empirical_null_model/results/distributions_complete_set_A.jpg) to compute a p-value for correlation of a vector composed of prediction scores with a vector consisiting on Stark's measurement data (rolled or concatenated). [Notebook](https://htmlpreview.github.io/?https://github.com/aerijman/TADs-analysis/blob/master/empirical_null_model/notebooks/predictions_Logo.html) and [libraries](./empirical_null_model/libraries/predictions_Logo_library.py). 
 ![](./empirical_null_model/results/pValues__vs__threshold_complete_set.jpg)
 
-* [unfinished1]()
-* [unfinished2]()
+* [unfinished1]((https://htmlpreview.github.io/?https://github.com/aerijman/TADs-analysis/blob/master/kmers.html))
+* [unfinished2]((https://htmlpreview.github.io/?https://github.com/aerijman/TADs-analysis/blob/master/predictions_Logo.html))
 
 
 
