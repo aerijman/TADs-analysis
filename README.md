@@ -29,7 +29,7 @@ We found the same using our predictor!!
 * [unfinished1](https://htmlpreview.github.io/?https://github.com/aerijman/TADs-analysis/blob/master/kmers.html)
 * [unfinished2](https://htmlpreview.github.io/?https://github.com/aerijman/TADs-analysis/blob/master/predictions_Logo.html)
 
-* [FirstSuammry](https://htmlpreview.github.io/?https://github.com/aerijman/TADs-analysis/blob/master/sumary/notebooks/Test_NN_external_DBs.html)
+* [First Summary](https://htmlpreview.github.io/?https://github.com/aerijman/TADs-analysis/blob/master/sumary/notebooks/Test_NN_external_DBs.html)
 
 
 
